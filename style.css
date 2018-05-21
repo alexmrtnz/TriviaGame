@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(206, 30, 30);
+    padding: 15px;
+    text-align: center;
+    
+    
+}
+
+body {
+    background: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: white;
+}
+
+#container {
+    width: 60%;
+
+    background:rgb(218, 126, 126);
+    margin: 20px auto;
+    padding: 30px;
+    overflow: auto;
+    margin-top: -1px;
+    margin-bottom: -1px;
+    border: solid 1px;
+    border-color: black
+
+
+}
+
+
+footer {
+    text-align: center;
+    margin-top:25px;
+}
+
+#results h3 {
+    background: blue
+}
+    
+#results span {
+
+    background: green;
+}
